@@ -1,2 +1,3 @@
 # thoughts
-random thoughts about programming
+
+Here's the place I'll put some of my thoughts about programming.
